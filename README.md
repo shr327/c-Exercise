@@ -1,2 +1,2 @@
-# c-Exercise
-simple exercise to build a solid foundation
+# c-LeetCode
+ exercise to build a solid foundation
